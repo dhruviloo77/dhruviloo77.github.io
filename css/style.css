@@ -7,7 +7,7 @@
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
-  --purple: #6f42c1;
+  --purple: #6f42c1
   --pink: #e83e8c;
   --red: #dc3545;
   --orange: #fd7e14;
@@ -8636,9 +8636,8 @@ h1, h2, h3, h4, h5,
     display: block;
     width: 100%;
     position: relative;
-    height: 470px;
-    width: 550px;
-    transform: rotate(270deg);
+    height: 750px;
+    width: 750px;
     z-index: 1;
     opacity: 1;
     transition: .5s ease;
